@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "About.OOO",
-	"icon": "https://micro.blog/aboutooo/avatar.jpg",
+	"title": "From.Network",
+	"icon": "https://micro.blog/FromNetwork/avatar.jpg",
 	"home_page_url": "https://blog.about.ooo/",
 	"feed_url": "https://blog.about.ooo/feed.json",
 	"items": [
